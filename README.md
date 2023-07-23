@@ -1,2 +1,2 @@
 # Dice
-This program rolls to dice.
+This program rolls two dice.
